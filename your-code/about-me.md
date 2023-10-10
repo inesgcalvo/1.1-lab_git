@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Who am I
 
 * Where are you from?
@@ -15,6 +14,3 @@
 * Which industry will you seek employment in?
 * What will your future role look like?
 * What is your career goal?
-=======
-Hola! Me llamo Inés González Calvo, soy estudiante del bootcamp de Data Analytics de Ironhack en formato full time en Madrid, en el Matadero.
->>>>>>> 5550b5d6034c4dd6dbd33fa71378f65414654584
